@@ -1,4 +1,4 @@
-def meal_choice (vegan="meat")
-  puts "I would like some #{vegan}"
+def meal_choice (meat="vegan")
+  puts "I would like some #{meat}"
 end
 
