@@ -1,5 +1,3 @@
-def meal_choice (meat,vegan)
-  puts "I would like some #{meat}."
-  puts "I'm #{vegan}."
+def meal_choice (type = meat, vegan)
+  puts type
 end
-
